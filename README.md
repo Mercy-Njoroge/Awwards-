@@ -11,6 +11,13 @@ This is an app that allows users to like post and comment on other people posts
 * A user can upload posts and edit their profile.
 * Admin can regulate images uploaded by deleting from the admin dashboard as well as completely close a users account.
 
+## Instructions
+- create a profile
+- login to your account
+- click on submit your site
+- upload photo and add description
+- click post,to see your post scroll down the home page
+
 ## Setup/Installation requirements
 1.Clone or download and unzip the repository from github,https://github.com/Mercy-Njoroge/Awwards.git
 
